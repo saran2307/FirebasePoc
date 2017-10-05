@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "657573972122",
+    "firebase_url": "https://nalla-neram.firebaseio.com",
+    "project_id": "nalla-neram",
+    "storage_bucket": "nalla-neram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657573972122:android:d2c523ca3feb9a37",
+        "android_client_info": {
+          "package_name": "daily.tamil.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657573972122-fnrnkc4j527h64bm3v7ucm6m2aqdvnuc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "daily.tamil.calendar",
+            "certificate_hash": "4876a59811495f36f1afe207735723ba9b4b58aa"
+          }
+        },
+        {
+          "client_id": "657573972122-p6i731tq0fnfn8k6q2gij2hlq9bqba6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdTQFViIMPLM9HyqzlFH5nurnSt3tdlQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657573972122-p6i731tq0fnfn8k6q2gij2hlq9bqba6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657573972122:android:8cec11cbc02f091d",
+        "android_client_info": {
+          "package_name": "daily.telugu.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657573972122-7kasaq3of15knesrbjfdu1t927cg55gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "daily.telugu.calendar",
+            "certificate_hash": "4876a59811495f36f1afe207735723ba9b4b58aa"
+          }
+        },
+        {
+          "client_id": "657573972122-p6i731tq0fnfn8k6q2gij2hlq9bqba6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdTQFViIMPLM9HyqzlFH5nurnSt3tdlQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657573972122-p6i731tq0fnfn8k6q2gij2hlq9bqba6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657573972122:android:afa2ddee629618ba",
+        "android_client_info": {
+          "package_name": "daily.hindu.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657573972122-2sejfpt2rg39oi0mvlsfpejt4jfe29cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "daily.hindu.calendar",
+            "certificate_hash": "4876a59811495f36f1afe207735723ba9b4b58aa"
+          }
+        },
+        {
+          "client_id": "657573972122-p6i731tq0fnfn8k6q2gij2hlq9bqba6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdTQFViIMPLM9HyqzlFH5nurnSt3tdlQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657573972122-p6i731tq0fnfn8k6q2gij2hlq9bqba6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657573972122:android:f99cd3f06645f60b",
+        "android_client_info": {
+          "package_name": "poc.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657573972122-g8dgnu13s2jnhrhp5j61cjjafnn1dke9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "poc.firebase",
+            "certificate_hash": "4876a59811495f36f1afe207735723ba9b4b58aa"
+          }
+        },
+        {
+          "client_id": "657573972122-p6i731tq0fnfn8k6q2gij2hlq9bqba6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdTQFViIMPLM9HyqzlFH5nurnSt3tdlQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657573972122-p6i731tq0fnfn8k6q2gij2hlq9bqba6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
